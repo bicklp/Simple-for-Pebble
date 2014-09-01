@@ -49,7 +49,6 @@ void set_day_layer(int day)
     case 5: startX = 80; break;
     case 6: startX = 95; break;
     case 0: startX = 110; break;
-    case 10: startX = 110; break;
   }
   // Create Layer
   
