@@ -1,0 +1,35 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "bicklp@gmail.com",
+    "longName": "Simple",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/no_bluetooth.png",
+                "name": "IMAGE_BLUETOOTH_OFF",
+                "type": "png"
+            },
+            {
+                "file": "fonts/Swiss 911 Ultra Compressed.ttf",
+                "name": "FONT_TREK_24",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Swiss 911 Ultra Compressed.ttf",
+                "name": "FONT_TREK_72",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "Simple",
+    "uuid": "450f7865-2e82-440d-a4c2-f8c386ac6ed1",
+    "versionCode": 1,
+    "versionLabel": "1.6",
+    "watchapp": {
+        "watchface": true
+    }
+}
