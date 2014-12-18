@@ -272,7 +272,7 @@ void bluetooth_connection_callback(bool connected) {
         }
         else{ 
           // Vibe pattern: ON for 200ms, OFF for 100ms, ON for 400ms:
-          static const uint32_t segments[] = { 100};
+          static const uint32_t  segments[] = { 100};
           VibePattern pat = {
             .durations = segments,
             .num_segments = ARRAY_LENGTH(segments),
