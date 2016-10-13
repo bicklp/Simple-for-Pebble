@@ -1,0 +1,32 @@
+{
+    "author": "bicklp@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "simple",
+    "pebble": {
+        "displayName": "Simple",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/no_bluetooth.png",
+                    "name": "IMAGE_BLUETOOTH_OFF",
+                    "type": "png"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "diorite"
+        ],
+        "uuid": "450f7865-2e82-440d-a4c2-f8c386ac6ed1",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "2.0.0"
+}
